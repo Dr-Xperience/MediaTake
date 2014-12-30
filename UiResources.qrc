@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ui/toolButton/icon">
+        <file>Resources/ui/toolButton/icon/next.png</file>
+        <file>Resources/ui/toolButton/icon/pause.png</file>
+        <file>Resources/ui/toolButton/icon/play.png</file>
+        <file>Resources/ui/toolButton/icon/previous.png</file>
+        <file>Resources/ui/toolButton/icon/repeat.png</file>
+        <file>Resources/ui/toolButton/icon/shuffle.png</file>
+        <file>Resources/ui/toolButton/icon/volume.png</file>
+        <file>Resources/ui/toolButton/icon/volumeMuted.png</file>
+    </qresource>
+</RCC>
