@@ -1,19 +1,38 @@
+/****************************************************************************
+    Media Take : A Qt and GStreamer Based cross platform Media Player for PC
+    Copyright (C) 2013  Anubhav Arun
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+*****************************************************************************/
+
 #ifndef QTGSTREAMERDRIVER_H
 #define QTGSTREAMERDRIVER_H
 
 #include <QtCore>
-#include <QtGStreamer/QGst/Pipeline>
-#include <QtGStreamer/QGst/Ui/VideoWidget>
-#include <QtGStreamer/QGlib/Connect>
-#include <QtGStreamer/QGlib/Error>
-#include <QtGStreamer/QGst/Pipeline>
-#include <QtGStreamer/QGst/ElementFactory>
-#include <QtGStreamer/QGst/Bus>
-#include <QtGStreamer/QGst/Message>
-#include <QtGStreamer/QGst/Query>
-#include <QtGStreamer/QGst/ClockTime>
-#include <QtGStreamer/QGst/Event>
-#include <QtGStreamer/QGst/StreamVolume>
+#include <Qt5GStreamer/QGst/Pipeline>
+#include <Qt5GStreamer/QGst/Ui/VideoWidget>
+#include <Qt5GStreamer/QGlib/Connect>
+#include <Qt5GStreamer/QGlib/Error>
+#include <Qt5GStreamer/QGst/Pipeline>
+#include <Qt5GStreamer/QGst/ElementFactory>
+#include <Qt5GStreamer/QGst/Bus>
+#include <Qt5GStreamer/QGst/Message>
+#include <Qt5GStreamer/QGst/Query>
+#include <Qt5GStreamer/QGst/ClockTime>
+#include <Qt5GStreamer/QGst/Event>
+#include <Qt5GStreamer/QGst/StreamVolume>
 
 class QtGStreamerDriver: public QGst::Ui::VideoWidget
 {

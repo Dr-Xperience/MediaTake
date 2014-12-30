@@ -1,0 +1,5 @@
+<map id="DatabaseOperationsAudio" name="DatabaseOperationsAudio">
+<area shape="rect" id="node4" href="$class_file_finder_audio.html" title="{FileFinderAudio\n|# mPath\l|# FileFinderAudio()\l# setPath()\l# getDirTree()\l# initiator()\l# destroyer()\l# manager()\l}" alt="" coords="36,779,167,930"/>
+<area shape="rect" id="node2" href="$class_database_operations.html" title="{DatabaseOperations\n|# mDBConnection\l# mCursor\l# mBSONObjBuilder\l# mBSONObj\l# mFile\l# mTag\l# mAudioProp\l# mFileProp\l# mMutex\l|+ getSetting()\l+ getSource()\l# DatabaseOperations()\l# ~DatabaseOperations()\l# removeFromDB()\l# updateDB()\l# updateTreeView()\l# updateSource()\l# initiator()\l# destroyer()\l# manager()\l# setSetting()\l}" alt="" coords="18,131,184,487"/>
+<area shape="rect" id="node5" href="$class_library_manager_audio.html" title="{LibraryManagerAudio\n||+ LibraryManagerAudio()\l+ setInitiatorPath()\l+ setDestroyerPath()\l+ setManagerOnline()\l# destroyer()\l# manager()\l}" alt="" coords="19,979,183,1130"/>
+</map>

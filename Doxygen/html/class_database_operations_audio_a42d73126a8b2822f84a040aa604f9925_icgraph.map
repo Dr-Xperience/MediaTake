@@ -1,0 +1,5 @@
+<map id="DatabaseOperationsAudio::updateTreeView" name="DatabaseOperationsAudio::updateTreeView">
+<area shape="rect" id="node2" href="$class_file_finder_audio.html#af8153dd34e8691aab1445413b3a86d12" title="FileFinderAudio::initiator" alt="" coords="227,5,389,32"/>
+<area shape="rect" id="node3" href="$class_library_manager_audio.html#af69df97c95e9e0fae6b08d071b9ab93d" title="LibraryManagerAudio\l::destroyer" alt="" coords="236,57,380,98"/>
+<area shape="rect" id="node4" href="$class_library_manager_audio.html#ad2176013457295b02726edb2e6a547c4" title="LibraryManagerAudio\l::manager" alt="" coords="236,122,380,163"/>
+</map>

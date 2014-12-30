@@ -1,3 +1,22 @@
+/****************************************************************************
+    Media Take : A Qt and GStreamer Based cross platform Media Player for PC
+    Copyright (C) 2013  Anubhav Arun
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+*****************************************************************************/
+
 #-------------------------------------------------
 #
 # Project created by QtCreator 2013-11-14T02:19:20
@@ -6,7 +25,7 @@
 
 QT       += core gui
 
-greaterThan(QT_MAJOR_VERSION, 5): QT += widgets
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = MediaTake
 TEMPLATE = app
@@ -44,7 +63,7 @@ FORMS    += mainwindow.ui \
 
 unix{
 LIBS += -lmongoclient\
-        -lboost_thread\
+        -lboost_thread-mt\
         -lboost_filesystem\
         -lboost_program_options\
         -lboost_system\
@@ -54,12 +73,11 @@ QMAKE_CXXFLAGS += -std=c++11 -pthread -Wno-deprecated #-fpermissive -pedantic
 LIBS += -pthread
 
 LIBS += -ltag\
-#        -lQtGStreamer-0.10 -lQtGLib-2.0 -lQtCore -lQtGStreamerUi-0.10 -lQtGStreamerUtils-0.10\
-#        -L/usr/local/Qt5.2.0/Qt5.2.0/gcc_64/lib\
+#        -lQt5GStreamer-0.10 -lQt5GLib-2.0 -lQt5Core -lQt5GStreamerUi-0.10 -lQt5GStreamerUtils-0.10\
+#        -L/usr/local/Qt5.0.1/5.0.1/gcc_64/lib\
         -L/usr/local/lib
 
 INCLUDEPATH+= /usr/local/include
-#INCLUDEPATH+= /usr/local/Qt5.0.1/5.0.1/gcc_64/include/
 
 #CONFIG += link_pkgconfig
 #PKGCONFIG += gstreamer-1.0
@@ -78,6 +96,21 @@ QtGStreamer-0.10\ #- the libraries needed to use QtGStreamer
 QtGStreamerUi-0.10\   #- the libraries needed to use QtGStreamerUi
 QtGStreamerUtils-0.10\  #-the libraries needed to use QtGStreamerUtils
 
+}
+
+win32{
+INCLUDEPATH += boost_1_55_0/
+                C:\gstreamer-sdk\0.10\x86\include/
+
+LIBS += #-lmongoclient\
+        #-lboost_thread-mt\
+        #-lboost_filesystem\
+        #-lboost_program_options\
+        #-lboost_system\
+        /LIBPATH:boost_1_55_0\stage\lib;C:\gstreamer-sdk\0.10\x86\lib
+
+#QMAKE_CXXFLAGS += -std=c++11 -pthread -Wno-deprecated #-fpermissive -pedantic
+CONFIG += c++11
 }
 
 RESOURCES += \

@@ -1,0 +1,4 @@
+<map id="LibraryManagerVideo::destroyer" name="LibraryManagerVideo::destroyer">
+<area shape="rect" id="node2" href="$class_database_operations_video.html#a3187c0433cbc90c9cbcbd091bfc76e9d" title="DatabaseOperationsVideo\l::removeFromDB" alt="" coords="197,5,371,46"/>
+<area shape="rect" id="node3" href="$class_database_operations_video.html#a958ad3432e96e3c51664bb687b244d06" title="DatabaseOperationsVideo\l::updateTreeView" alt="" coords="197,70,371,111"/>
+</map>

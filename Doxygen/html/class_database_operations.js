@@ -1,0 +1,26 @@
+var class_database_operations =
+[
+    [ "DatabaseOperations", "class_database_operations.html#a843d8a6cc96a346a1ab4943362a9ba0c", null ],
+    [ "~DatabaseOperations", "class_database_operations.html#a512890dc178ab17b5d54592fbba0eabd", null ],
+    [ "destroyer", "class_database_operations.html#a435467e14c7ebdf3ecc6359e57c4d013", null ],
+    [ "getSetting", "class_database_operations.html#a7fb19eb6129268920bc655321703fa0d", null ],
+    [ "getSource", "class_database_operations.html#a8cf9e78c2927df5cc0a886992d394fdd", null ],
+    [ "initiator", "class_database_operations.html#af399d5ee2e6c559cf98c3ca6559f96e5", null ],
+    [ "manager", "class_database_operations.html#aeacfe0c761bf321b7a0c45763a16b4cf", null ],
+    [ "removeFromDB", "class_database_operations.html#abab54bc65a349871c58d6027d871786e", null ],
+    [ "setSetting", "class_database_operations.html#a2d74da811fa9cb8f0239bfea76ccb9d4", null ],
+    [ "updateDB", "class_database_operations.html#afe6635240b49bdeb4a1cee1b948da5fd", null ],
+    [ "updatePath", "class_database_operations.html#ad920f83b72e1184bc844cc5002b2c13a", null ],
+    [ "updateSource", "class_database_operations.html#a78b632e484e7d469f02366dbd9e1cd91", null ],
+    [ "updateTreeView", "class_database_operations.html#a77a4a371cfb8fdc2fc0cbf0f954693cd", null ],
+    [ "updateTreeWidgetLibraryDisplay", "class_database_operations.html#a31fab20336d2bb54e41983b4db5a87cc", null ],
+    [ "mAudioProp", "class_database_operations.html#a5cf34cf709fe0574fe5101b4f1818a23", null ],
+    [ "mBSONObj", "class_database_operations.html#a40636866ce3a84961ed1c241e6ee0885", null ],
+    [ "mBSONObjBuilder", "class_database_operations.html#ae6604cf6874bd9700ee3158c35945687", null ],
+    [ "mCursor", "class_database_operations.html#a0768987f8c116148aae4175cfc0df6bd", null ],
+    [ "mDBConnection", "class_database_operations.html#a407ee7c24b774c93bd7d915566c84663", null ],
+    [ "mFile", "class_database_operations.html#af61f0200ac06733bbd9276faf9fa4488", null ],
+    [ "mFileProp", "class_database_operations.html#a27137305ac34557b97fdffd8e17a9be2", null ],
+    [ "mMutex", "class_database_operations.html#a527401ca7671c2856b6368cad0c1c3a7", null ],
+    [ "mTag", "class_database_operations.html#a4ee540c45bc895889be44c652693d0e5", null ]
+];
