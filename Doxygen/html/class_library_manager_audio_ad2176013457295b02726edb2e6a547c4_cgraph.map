@@ -1,6 +1,0 @@
-<map id="LibraryManagerAudio::manager" name="LibraryManagerAudio::manager">
-<area shape="rect" id="node2" href="$class_file_finder_audio.html#a75465aa7c289474f155d1e20acb23e65" title="FileFinderAudio::setPath" alt="" coords="204,5,369,32"/>
-<area shape="rect" id="node3" href="$class_file_finder_audio.html#a7d590d88a79ee9327c86761ce1f6e89b" title="FileFinderAudio::getDirTree" alt="" coords="197,56,376,83"/>
-<area shape="rect" id="node5" href="$class_database_operations_audio.html#a42d73126a8b2822f84a040aa604f9925" title="DatabaseOperationsAudio\l::updateTreeView" alt="" coords="200,107,373,149"/>
-<area shape="rect" id="node4" href="$class_database_operations_audio.html#ad0a8ec0e0472aed58a9927e00cd5a7fd" title="DatabaseOperationsAudio\l::updateDB" alt="" coords="424,49,597,90"/>
-</map>

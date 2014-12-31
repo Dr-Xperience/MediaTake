@@ -1,6 +1,0 @@
-<map id="FileFinderVideo::initiator" name="FileFinderVideo::initiator">
-<area shape="rect" id="node2" href="$class_database_operations_video.html#ac5c4d66e50e9342eede8f63d91057756" title="DatabaseOperationsVideo\l::updateSource" alt="" coords="219,5,392,46"/>
-<area shape="rect" id="node3" href="$class_file_finder_video.html#a9865b680e146d66acf9616f8f5f70db6" title="FileFinderVideo::getDirTree" alt="" coords="216,71,395,97"/>
-<area shape="rect" id="node5" href="$class_database_operations_video.html#a958ad3432e96e3c51664bb687b244d06" title="DatabaseOperationsVideo\l::updateTreeView" alt="" coords="219,122,392,163"/>
-<area shape="rect" id="node4" href="$class_database_operations_video.html#a2e0c44a699ccc0b6248549bffe8078f9" title="DatabaseOperationsVideo\l::updateDB" alt="" coords="443,63,616,105"/>
-</map>

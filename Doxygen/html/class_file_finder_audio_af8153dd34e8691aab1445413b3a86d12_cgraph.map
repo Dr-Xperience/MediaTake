@@ -1,6 +1,0 @@
-<map id="FileFinderAudio::initiator" name="FileFinderAudio::initiator">
-<area shape="rect" id="node2" href="$class_database_operations_audio.html#a1dc402c2c29b384e1015dea77fcf3662" title="DatabaseOperationsAudio\l::updateSource" alt="" coords="219,5,392,46"/>
-<area shape="rect" id="node3" href="$class_file_finder_audio.html#a7d590d88a79ee9327c86761ce1f6e89b" title="FileFinderAudio::getDirTree" alt="" coords="216,71,395,97"/>
-<area shape="rect" id="node5" href="$class_database_operations_audio.html#a42d73126a8b2822f84a040aa604f9925" title="DatabaseOperationsAudio\l::updateTreeView" alt="" coords="219,122,392,163"/>
-<area shape="rect" id="node4" href="$class_database_operations_audio.html#ad0a8ec0e0472aed58a9927e00cd5a7fd" title="DatabaseOperationsAudio\l::updateDB" alt="" coords="443,63,616,105"/>
-</map>

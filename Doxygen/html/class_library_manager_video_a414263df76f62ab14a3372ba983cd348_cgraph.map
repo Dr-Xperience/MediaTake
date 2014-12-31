@@ -1,6 +1,0 @@
-<map id="LibraryManagerVideo::manager" name="LibraryManagerVideo::manager">
-<area shape="rect" id="node2" href="$class_file_finder_video.html#aa0711fca668fcc1e06b603d330f4bf8c" title="FileFinderVideo::setPath" alt="" coords="204,5,369,32"/>
-<area shape="rect" id="node3" href="$class_file_finder_video.html#a9865b680e146d66acf9616f8f5f70db6" title="FileFinderVideo::getDirTree" alt="" coords="197,56,376,83"/>
-<area shape="rect" id="node5" href="$class_database_operations_video.html#a958ad3432e96e3c51664bb687b244d06" title="DatabaseOperationsVideo\l::updateTreeView" alt="" coords="200,107,373,149"/>
-<area shape="rect" id="node4" href="$class_database_operations_video.html#a2e0c44a699ccc0b6248549bffe8078f9" title="DatabaseOperationsVideo\l::updateDB" alt="" coords="424,49,597,90"/>
-</map>

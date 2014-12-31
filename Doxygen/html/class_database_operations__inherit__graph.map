@@ -1,8 +1,0 @@
-<map id="DatabaseOperations" name="DatabaseOperations">
-<area shape="rect" id="node3" href="$class_database_operations_audio.html" title="{DatabaseOperationsAudio\n||+ getSource()\l# DatabaseOperationsAudio()\l# removeFromDB()\l# updateDB()\l# updateTreeView()\l# updateSource()\l# initiator()\l# destroyer()\l# manager()\l}" alt="" coords="5,544,197,739"/>
-<area shape="rect" id="node6" href="$class_database_operations_video.html" title="{DatabaseOperationsVideo\n||+ getSource()\l# DatabaseOperationsVideo()\l# removeFromDB()\l# updateDB()\l# updateTreeView()\l# updateSource()\l# setSetting()\l# initiator()\l# destroyer()\l# manager()\l}" alt="" coords="221,537,413,746"/>
-<area shape="rect" id="node4" href="$class_file_finder_audio.html" title="{FileFinderAudio\n|# mPath\l|# FileFinderAudio()\l# setPath()\l# getDirTree()\l# initiator()\l# destroyer()\l# manager()\l}" alt="" coords="36,795,167,946"/>
-<area shape="rect" id="node5" href="$class_library_manager_audio.html" title="{LibraryManagerAudio\n||+ LibraryManagerAudio()\l+ setInitiatorPath()\l+ setDestroyerPath()\l+ setManagerOnline()\l# destroyer()\l# manager()\l}" alt="" coords="19,995,183,1146"/>
-<area shape="rect" id="node7" href="$class_file_finder_video.html" title="{FileFinderVideo\n|# mPath\l|# FileFinderVideo()\l# setPath()\l# getDirTree()\l# initiator()\l# destroyer()\l# manager()\l}" alt="" coords="252,795,383,946"/>
-<area shape="rect" id="node8" href="$class_library_manager_video.html" title="{LibraryManagerVideo\n||+ LibraryManagerVideo()\l+ setInitiatorPath()\l+ setDestroyerPath()\l+ setManagerOnline()\l# destroyer()\l# manager()\l}" alt="" coords="235,995,399,1146"/>
-</map>

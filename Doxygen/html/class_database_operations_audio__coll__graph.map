@@ -1,3 +1,0 @@
-<map id="DatabaseOperationsAudio" name="DatabaseOperationsAudio">
-<area shape="rect" id="node2" href="$class_database_operations.html" title="{DatabaseOperations\n|# mDBConnection\l# mCursor\l# mBSONObjBuilder\l# mBSONObj\l# mFile\l# mTag\l# mAudioProp\l# mMutex\l|+ getSetting()\l+ getSource()\l# DatabaseOperations()\l# ~DatabaseOperations()\l# removeFromDB()\l# updateDB()\l# updateTreeView()\l# updateSource()\l# initiator()\l# destroyer()\l# manager()\l# setSetting()\l}" alt="" coords="18,288,184,629"/>
-</map>
