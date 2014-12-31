@@ -1,6 +1,6 @@
 /****************************************************************************
     Media Take : A Qt and GStreamer Based cross platform Media Player for PC
-    Copyright (C) 2013  Anubhav Arun
+    Copyright (C) 2013  Anubhav Arun <dr.xperience@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
